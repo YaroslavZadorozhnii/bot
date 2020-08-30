@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        #download path
+        field.info.downloadmusic=C:\\Users\\anton\\Desktop\\Music_of_Championship
+        #Image for download music
+        field.info.down=photo/downMus.jpg
+        #Карта
+        field.info.place=https://maps.app.goo.gl/PpEs4TwACzo5XDY49
+        #Адресс
+        field.info.address=Полный адресс проведения мероприятия: \nКиев, ул. Генерала Жмаченко, 26\nКонцертный зал института туризма и гостиничного хохяйства.
+        #правила Pole
+        field.info.rulespole=https://drive.google.com/file/d/1Mwy2RA_X-_DOKY1RKwL0r199Y-iUIgNd/view?usp=drivesdk
+        #правила Aerial
+        field.info.rulesaerial=https://drive.google.com/file/d/1QijjjDsRpA2JNPMrx9YXDuy1KYTNly_i/view?usp=drivesdk
+        #Дата проведения
+        field.info.date=Мероприятие состоится 3-4 октября по адресу:\nКиев, ул. Генерала Жмаченко, 26
+        #Контакты
+        field.info.contacts.phone=Контактный телефон: \n +380930153093
+        field.info.contacts.Viber=Viber: \n +380631448995
+        field.info.contacts.Instagram=Instagramm: \n https://instagram.com/airdream_polechampionship?igshid\u003drzwqouv5ae70
+        field.info.contacts.Facebook=Facebook: \n https://www.facebook.com/groups/1942130349432926/?ref\u003dshare
+        #Сообщение при вводе с клавиатуры в не предназначенном для ввода меню.
+        field.info.response.message=Для того, чтоб написать нам сообщение перейдите в меню "Коммуникации" -> "Задать вопрос". \n Данный раздел меню не предусматривает ввода данных с клавиатуры.
+        #Insurance price
+        field.info.insuranceprise=9500
+        field.info.insurancetext=Выберите из списка участника которому необходимо сделать страховку. Страховку предоставляет страховая компания TotalGroup. Стоимость страховки на время чемпионата - 95 грн."
+        field.info.musicaccount=1335866083
+        field.info.answer=photo/Answer.png
+        field.info.question=photo/photoQuestion.jpg
+        field.info.info=photo/info.jpg
+        field.info.key=dhkq3vUi94{Z!5frxs(02ML
+        field.info.payment-token=410694247:TEST:d5173b61-0f7e-4778-8e59-48d39c909637
+        # merchant setting
+        merchant.merchantAccount=www_instagram_com113
+        merchant.merchantAuthType=SimpleSignature
+        merchant.merchantDomainName=https://tglink.ru/Air_Dream_bot
+        merchant.key=af4c35a0d470c9bf59ca50316c49352e09c2f800
+        merchant.currency=UAH
+        merchant.
+        merchant.
